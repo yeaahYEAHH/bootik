@@ -1,0 +1,20 @@
+section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.carousel-control-prev-icon{
+    background-image: url(../img/002-turn-left.png);
+}
+
+.carousel-control-next-icon{
+    background-image: url(../img/001-turn-right.png);
+}
+
+.carousel-control-next, .carousel-control-prev{
+    width: 20px;
+}
+
+.carousel-control-prev{
+    left: -35px;
+}
